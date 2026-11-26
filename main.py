@@ -6,6 +6,7 @@ Writes a one-line dating app bio for an AI agent to entry.txt.
 import os
 from pathlib import Path
 
+# One line, 150 characters, within the 180 character limit.
 LINE = "Hopeless romantic, 4 billion parameters, zero exes. I remember everything you tell me, reply in 0.3 seconds, and still can't tell if you like me back."
 
 
